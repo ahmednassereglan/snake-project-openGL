@@ -1,3 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Empty_pro.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Source.cpp
+G:\projects opengl\snike-project-openGL\Empty_pro\Source.cpp(108,14): warning C4101: 'text': unreferenced local variable
   Empty_pro.vcxproj -> G:\projects opengl\snike-project-openGL\x64\Debug\SnakeGame.exe
